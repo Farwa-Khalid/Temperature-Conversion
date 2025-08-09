@@ -15,5 +15,6 @@ It allows users to convert between Celsius and Fahrenheit.
 - JavaScript
 
 ## 📸 Screenshot
-ss.png
+![Screenshot](ss.png)
+
 
